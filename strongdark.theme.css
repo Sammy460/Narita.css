@@ -79,3 +79,8 @@
     border-radius: 8px;
     scrollbar-width: none;
 }
+.layer-2aCOJ3 {
+    position: absolute;
+    pointer-events: auto;
+    background: black;
+}
