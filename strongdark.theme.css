@@ -1,0 +1,81 @@
+/**
+* @name strong dark
+* @version Auto Update
+* @author Sammy
+* @website https://github.com/Sammy460
+* @paypal https://www.paypal.com/paypalme/sammy460
+*/
+
+.theme-dark {
+    --header-primary: rgb(255, 255, 255);
+    --text-link: rgb(255, 255, 255);
+    --background-primary: black;
+    --background-secondary: rgb(0, 0, 0);
+    --background-secondary-alt: black;
+    --background-tertiary: black;
+    --background-accent: black;
+    --background-floating: black;
+    --chat-input-container-background: black;
+
+}
+    .button-12Fmur>.contents-3ca1mk>svg {
+    background-position: center;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    opacity: .5;
+    transition: all .1s ease-in-out;
+    color: #ffffff;
+    }
+    .contents-3ca1mk .strikethrough-2Kl6HF{
+    color:  rgb(255, 255, 255)}
+    .privateChannels-oVe7HL .privateChannelsHeaderContainer-1UWASm .headerText-1qIDDT {
+    overflow: visible;
+    color: rgb(#ffffff);
+    }
+    .button-12Fmur {
+    width: 32px;
+    height: 32px;
+    opacity: 1;
+    color: #ffffff;
+}
+.textArea-2CLwUE {
+    background-color: black;
+    resize: none;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    width: 100%;
+    height: 44px;
+    min-height: 44px;
+    color: var(--text-normal);
+    padding-left: 0;
+    padding-right: 10px;
+}
+:root {
+    --SC-spotify-green: #2f3237;
+}
+.container-6sXIoE .button-12Fmur.active-6TsW-_ {
+    color: #a8a8a89d;
+}
+
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+    color: var(--white-500);
+    background-color:#2f3237;
+}
+.channelTextArea-1FufC0 {
+    background-color: rgba(0, 0, 0, .2);
+}
+.scrollableContainer-15eg7h {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color:black;
+    max-height: 50vh;
+    border-radius: 8px;
+    scrollbar-width: none;
+}
