@@ -9,14 +9,16 @@
 .theme-dark {
     --header-primary: rgb(255, 255, 255);
     --text-link: rgb(255, 255, 255);
-    --background-primary: black;
-    --background-secondary: rgb(0, 0, 0);
-    --background-secondary-alt: black;
+    --background-primary: url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
+    --background-secondary: url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
+    --background-secondary-alt: url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
     --background-tertiary: black;
     --background-accent: black;
     --background-floating: black;
     --chat-input-container-background: black;
+    background-size: cover;
 }
+
 .textArea-2CLwUE {
     background-color: black;
     resize: none;
@@ -79,4 +81,22 @@
 .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1, .tabBar-ra-EuL .addFriend-emTWY1.addFriend-emTWY1.addFriend-emTWY1:hover {
     background-color: rgb(0, 119, 0);
     color: var(--status-positive-text);
+}
+.modeSelected-3DmyhH .icon-2W8DHg, .modeSelected-3DmyhH:hover .icon-2W8DHg, .modeUnread-3Cxepe .icon-2W8DHg, .modeUnread-3Cxepe:hover .icon-2W8DHg {
+    color: rgb(255, 255, 255);
+}
+.profileColors-3Y0XaR {
+    transform: none;
+    --profile-gradient-primary-color: display none;
+    --profile-gradient-secondary-color: transparent;
+    --profile-gradient-overlay-color: black;
+    --profile-gradient-button-color: var(--button-secondary-background);
+    --profile-avatar-border-color: var(--background-secondary-alt);
+    --profile-message-input-border-color: var(--background-modifier-accent);
+    --profile-body-background-color: var(--background-floating);
+    --profile-body-background-hover: var(--background-modifier-hover);
+    --profile-body-divider-color: rgb(255 255 255);
+    --profile-role-pill-background-color: var(--background-secondary-alt);
+    --profile-role-pill-border-color: var(--interactive-normal);
+    --account-profile-popout-menu-hover: var(--brand-experiment-560);
 }
