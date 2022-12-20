@@ -1,5 +1,5 @@
 /**
-* @name dark sky
+* @name strong dark
 * @version Auto Update
 * @author Sammy
 * @website https://github.com/Sammy460
@@ -9,14 +9,20 @@
 .theme-dark {
     --header-primary: rgb(255, 255, 255);
     --text-link: rgb(255, 255, 255);
-    --background-primary: url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
+    --background-primary:  url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
     --background-secondary: url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
     --background-secondary-alt: url(https://cdn.discordapp.com/attachments/1030247989429678186/1054582692454338592/ezgif.com-gif-maker.gif);
     --background-tertiary: black;
     --background-accent: black;
     --background-floating: black;
     --chat-input-container-background: black;
-    background-size: cover;
+  
+}
+
+.markup-eYLPri {
+   
+    color: rgb(232, 205, 245);
+    background: black;
 }
 
 .textArea-2CLwUE {
